@@ -1,0 +1,23 @@
+hacerVecinos 1 2 1.0
+sonVecinos 1 2
+sonVecinos 9 1
+distancia 1 2
+vecinos 1
+vecinos 2
+vecinos 9
+cantidadVertices
+hacerVecinos 1 4 1.0
+hacerVecinos 3 9 1.0
+vecinos 1
+vecinos 2
+vecinos 4
+cantidadVertices
+insertarEnCP 4 4.0
+insertarEnCP 9 9.0
+insertarEnCP 3 3.0
+existeAsociacionEnMap 5
+prioridad 3
+actualizarEnCP 9 30.0
+eliminarPrioritario
+prioritario
+Fin

@@ -1,0 +1,29 @@
+hacerVecinos 1 2 1.0
+sonVecinos 1 2
+sonVecinos 3 4
+distancia 1 2
+vecinos 1
+vecinos 2
+vecinos 4
+hayMParejas
+hacerVecinos 1 4 1.0
+hacerVecinos 3 2 1.0
+vecinos 1
+vecinos 2
+vecinos 4
+hayMParejas
+asociarEnMap 5 5.0
+asociarEnMap 15 5.0
+insertarEnCP 4 4.0
+insertarEnCP 9 9.0
+insertarEnCP 3 3.0
+valorEnMap 5
+valorEnMap 15
+desasociarEnMap 5
+valorEnMap 15
+prioritario
+actualizarEnCP 3 30.0
+prioritario
+eliminarPrioritario
+estaVaciaCP
+Fin

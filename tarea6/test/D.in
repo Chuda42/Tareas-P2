@@ -1,0 +1,32 @@
+asociarEnMap 5 15.0
+desasociarEnMap 5
+asociarEnMap 5 25.0
+existeAsociacionEnMap 5
+valorEnMap 5
+estaLlenoMap
+hacerVecinos 2 1 5.0
+hacerVecinos 3 1 5.0
+hacerVecinos 10 1 5.0
+hacerVecinos 9 1 5.0
+hacerVecinos 8 1 5.0
+hayMParejas
+sonVecinos 1 2
+sonVecinos 6 1
+distancia 1 2
+vecinos 2
+vecinos 9
+vecinos 6
+cantidadVertices
+hacerVecinos 2 3 1.0
+hacerVecinos 2 10 1.0
+hacerVecinos 4 7 2.0
+hacerVecinos 7 5 2.0
+insertarEnCP 4 4.0
+insertarEnCP 9 9.0
+insertarEnCP 3 3.0
+rangoCP
+prioridad 3
+actualizarEnCP 9 1.0
+prioritario
+Fin
+
